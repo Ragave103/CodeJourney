@@ -1,5 +1,5 @@
 <img src="images/header.png" />
-<img src="https://raw.githubusercontent.com/ragave103/ragave103/output/snake.svg" alt="Snake animation" />
+
 ## 💫 About Me:
 Dedicated full stack developer with a passion for crafting innovative digital solutions. Experienced in both frontend and backend technologies, I specialize in architecting elegant and scalable applications that deliver tangible results. Let's collaborate and drive innovation forward. 🚀
 

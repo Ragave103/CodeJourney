@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://drive.google.com/file/d/1pyoVfttqvyHqyULZgNw_PIeAU9254Ngr/view?usp=sharing" alt="c" width="40" height="40"/>
 
 <h3 >Embark on my coding journey! From humble beginnings to innovative projects, witness my evolution in software development. Dive into diverse projects, offer feedback, or join in collaboration. Whether you're a fellow coder, potential employer, or just curious, find inspiration in my creations.</h3><h3> Let's push boundaries, solve problems, and shape the future of tech together, one line of code at a time! 🚀</h3>
 
